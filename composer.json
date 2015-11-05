@@ -1,6 +1,6 @@
 {
     "name": "flagshipcompany/silex-turbolinks",
-    "version": "1.0",
+    "version": "1.0.1",
     "type": "library",
     "require": {
         "silex/silex": "~2.0@dev",
