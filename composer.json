@@ -3,8 +3,8 @@
     "version": "1.0.1",
     "type": "library",
     "require": {
-        "silex/silex": "~2.0@dev",
-        "helthe/turbolinks": "~1.4"
+        "silex/silex": "~2.0",
+        "helthe/turbolinks": "~2.0"
 
     },
     "autoload": {
